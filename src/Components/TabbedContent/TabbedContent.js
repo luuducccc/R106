@@ -51,9 +51,9 @@ function TabbedContent() {
         {activeTab === "Liên hệ" && (
           <div className="content-panel">
             <h3>Thông tin liên hệ</h3>
-            <p>Địa chỉ: 123 Đường ABC, Quận XYZ, Thành phố Hồ Chí Minh</p>
-            <p>Điện thoại: (028) 1234 5678</p>
-            <p>Email: info@example.com</p>
+            <p>Địa chỉ: </p>
+            <p>Điện thoại: </p>
+            <p>Email: ab@gmail.com</p>
           </div>
         )}
       </div>
